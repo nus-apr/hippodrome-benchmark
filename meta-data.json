@@ -5,15 +5,20 @@
         "bug_id": "account",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/java-benchmark/account/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 2,
@@ -21,15 +26,20 @@
         "bug_id": "airline",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/java-benchmark/airline/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 3,
@@ -37,15 +47,20 @@
         "bug_id": "alarmclock",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/java-benchmark/alarmclock/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 4,
@@ -53,15 +68,20 @@
         "bug_id": "buggyprogram",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/java-benchmark/buggyprogram/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 5,
@@ -69,15 +89,20 @@
         "bug_id": "consistency",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/java-benchmark/consistency/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 6,
@@ -85,15 +110,20 @@
         "bug_id": "deadlock-paper",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/java-benchmark/deadlock-paper/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 7,
@@ -101,15 +131,20 @@
         "bug_id": "linkedlist",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/java-benchmark/linkedlist/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 8,
@@ -117,15 +152,20 @@
         "bug_id": "mergesort",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/java-benchmark/mergesort/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 9,
@@ -133,15 +173,20 @@
         "bug_id": "nestedclasses1",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/java-benchmark/nestedclasses1/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 10,
@@ -149,15 +194,20 @@
         "bug_id": "nestedclasses2",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/java-benchmark/nestedclasses2/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 11,
@@ -165,15 +215,20 @@
         "bug_id": "nestedclasses3",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""        
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/java-benchmark/nestedclasses3/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 12,
@@ -181,15 +236,20 @@
         "bug_id": "nio-io-library-simplified",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/java-benchmark/nio-io-library-simplified/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 13,
@@ -197,15 +257,20 @@
         "bug_id": "pingpong",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/java-benchmark/pingpong/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 14,
@@ -213,15 +278,20 @@
         "bug_id": "wrongLock",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/java-benchmark/wrongLock/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 15,
@@ -229,15 +299,20 @@
         "bug_id": "wrongLock2",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/java-benchmark/wrongLock2/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 16,
@@ -245,15 +320,20 @@
         "bug_id": "c3840397",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/tomcat/c3840397/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 17,
@@ -261,142 +341,187 @@
         "bug_id": "0f729cf5",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/tomcat/0f729cf5/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 18,
         "subject": "tomcat",
-        "bug_id":"066e2546",         
+        "bug_id": "066e2546",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/tomcat/066e2546/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 19,
         "subject": "tomcat",
-        "bug_id":"2c999ef1f75",         
+        "bug_id": "2c999ef1f75",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/tomcat/2c999ef1f75/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 20,
         "subject": "tomcat",
-        "bug_id":"ab1581d5be",         
+        "bug_id": "ab1581d5be",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/tomcat/ab1581d5be/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 21,
         "subject": "tomcat",
-        "bug_id":"223683574d",         
+        "bug_id": "223683574d",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/tomcat/223683574d/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 22,
         "subject": "tomcat",
-        "bug_id":"339b40bc07",         
+        "bug_id": "339b40bc07",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/tomcat/339b40bc07/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 23,
         "subject": "tomcat",
-        "bug_id":"49ff4703e46feb",         
+        "bug_id": "49ff4703e46feb",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/tomcat/49ff4703e46feb/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 24,
         "subject": "tomcat",
-        "bug_id":"6a0ad7d1566",         
+        "bug_id": "6a0ad7d1566",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/tomcat/6a0ad7d1566/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 25,
         "subject": "tomcat",
-        "bug_id":"1758f6460a8e",         
+        "bug_id": "1758f6460a8e",
         "source_file": "",
         "line_numbers": [],
-        "failing_test": "1",
-        "passing_test": "",
+        "failing_test_identifiers": "1",
+        "passing_test_identifiers": "",
         "count_neg": "1",
         "count_pos": "0",
         "binary_path": "",
-        "crash_input": "",
+        "binary_args": "",
         "exploit_file_list": [],
         "test_timeout": 5,
-        "bug_type": ""
+        "bug_type": "",
+        "src": {
+            "root_abspath": "/experiment/tomcat/1758f6460a8e/src",
+            "entrypoint": {}
+        },
+        "output_dir_abspath": "/output"
     }
 ]
