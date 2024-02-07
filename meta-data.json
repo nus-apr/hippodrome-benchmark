@@ -15,7 +15,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/java-benchmark/account/src",
+            "root_abspath": "/experiment/hippodrome/java-benchmark/account/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -36,7 +36,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/java-benchmark/airline/src",
+            "root_abspath": "/experiment/hippodrome/java-benchmark/airline/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -57,7 +57,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/java-benchmark/alarmclock/src",
+            "root_abspath": "/experiment/hippodrome/java-benchmark/alarmclock/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -78,7 +78,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/java-benchmark/buggyprogram/src",
+            "root_abspath": "/experiment/hippodrome/java-benchmark/buggyprogram/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -99,7 +99,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/java-benchmark/consistency/src",
+            "root_abspath": "/experiment/hippodrome/java-benchmark/consistency/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -120,7 +120,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/java-benchmark/deadlock-paper/src",
+            "root_abspath": "/experiment/hippodrome/java-benchmark/deadlock-paper/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -141,7 +141,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/java-benchmark/linkedlist/src",
+            "root_abspath": "/experiment/hippodrome/java-benchmark/linkedlist/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -162,7 +162,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/java-benchmark/mergesort/src",
+            "root_abspath": "/experiment/hippodrome/java-benchmark/mergesort/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -183,7 +183,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/java-benchmark/nestedclasses1/src",
+            "root_abspath": "/experiment/hippodrome/java-benchmark/nestedclasses1/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -204,7 +204,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/java-benchmark/nestedclasses2/src",
+            "root_abspath": "/experiment/hippodrome/java-benchmark/nestedclasses2/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -225,7 +225,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/java-benchmark/nestedclasses3/src",
+            "root_abspath": "/experiment/hippodrome/java-benchmark/nestedclasses3/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -246,7 +246,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/java-benchmark/nio-io-library-simplified/src",
+            "root_abspath": "/experiment/hippodrome/java-benchmark/nio-io-library-simplified/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -267,7 +267,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/java-benchmark/pingpong/src",
+            "root_abspath": "/experiment/hippodrome/java-benchmark/pingpong/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -288,7 +288,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/java-benchmark/wrongLock/src",
+            "root_abspath": "/experiment/hippodrome/java-benchmark/wrongLock/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -309,7 +309,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/java-benchmark/wrongLock2/src",
+            "root_abspath": "/experiment/hippodrome/java-benchmark/wrongLock2/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -330,7 +330,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/tomcat/c3840397/src",
+            "root_abspath": "/experiment/hippodrome/tomcat/c3840397/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -351,7 +351,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/tomcat/0f729cf5/src",
+            "root_abspath": "/experiment/hippodrome/tomcat/0f729cf5/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -372,7 +372,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/tomcat/066e2546/src",
+            "root_abspath": "/experiment/hippodrome/tomcat/066e2546/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -393,7 +393,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/tomcat/2c999ef1f75/src",
+            "root_abspath": "/experiment/hippodrome/tomcat/2c999ef1f75/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -414,7 +414,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/tomcat/ab1581d5be/src",
+            "root_abspath": "/experiment/hippodrome/tomcat/ab1581d5be/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -435,7 +435,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/tomcat/223683574d/src",
+            "root_abspath": "/experiment/hippodrome/tomcat/223683574d/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -456,7 +456,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/tomcat/339b40bc07/src",
+            "root_abspath": "/experiment/hippodrome/tomcat/339b40bc07/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -477,7 +477,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/tomcat/49ff4703e46feb/src",
+            "root_abspath": "/experiment/hippodrome/tomcat/49ff4703e46feb/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -498,7 +498,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/tomcat/6a0ad7d1566/src",
+            "root_abspath": "/experiment/hippodrome/tomcat/6a0ad7d1566/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
@@ -519,7 +519,7 @@
         "test_timeout": 5,
         "bug_type": "",
         "src": {
-            "root_abspath": "/experiment/tomcat/1758f6460a8e/src",
+            "root_abspath": "/experiment/hippodrome/tomcat/1758f6460a8e/src",
             "entrypoint": {}
         },
         "output_dir_abspath": "/output"
